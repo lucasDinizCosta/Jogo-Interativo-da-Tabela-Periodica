@@ -4,7 +4,7 @@
 
 ## Objetivo:
 
-<p align = "justify">Desenvolver um jogo interativo de perguntas e respostas sobre os conhecimentos da tabela periódica. Ele será utilizado para demonstrar aos integrantes do ensino médio e fundamental a importância da tabela periódica e incentivar o estudar o estudo da química por parte dos alunos</p>.
+<p align = "justify">Desenvolver um jogo interativo de perguntas e respostas sobre os conhecimentos da tabela periódica. Ele será utilizado para demonstrar aos integrantes do ensino médio e fundamental a importância da tabela periódica e incentivar o estudar o estudo da química por parte dos alunos.</p>
 
 ## Níveis de dificuldades:
 
